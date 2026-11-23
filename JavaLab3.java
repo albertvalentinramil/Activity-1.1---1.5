@@ -5,3 +5,10 @@ public class JavaLab3 {
         System.out.println("Albert");
     }
 }
+
+// Question
+// What are the output of the program? 
+// Here are the output of the code
+// Welcome to Java Programming!
+//I Love Java Programming
+//Albert
